@@ -1,0 +1,46 @@
+body{
+	background-image:url(image/batmanbanner.jpg);
+	background-repeat:no-repeat;
+	background-color: #f2f2ed;
+}
+nav ul li a{
+		font-size: 17px;
+	}
+
+
+	h5{
+	margin-top: 230px;
+	color: #a3a3a2;
+	font-size: 40px;
+	margin-left: 100px;
+
+}
+	h1{
+    margin-top: 0px;
+    font-size: 60px;
+    color: white;
+    margin-left: 100px;
+} 
+h2{
+	color: #4d4d49;
+}
+p{
+	color: #4d4d49;
+}
+footer{
+    padding: 20px;
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    margin-top: 15px;
+}
+.container{
+	margin-top: 300px;
+	border:8px solid #f1f514;
+	background-color: white;
+}
+.containerr{
+    width:960px;
+    margin:0 auto; /* auto = browser automatically calculate margin values*/
+    }
